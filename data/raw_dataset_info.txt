@@ -1,0 +1,22 @@
+Dataset Name: Breast Cancer Wisconsin Dataset
+
+Source:
+Scikit-learn Built-in Dataset
+
+Dataset Type:
+Classification
+
+Target Variable:
+Diagnosis (Malignant or Benign)
+
+Number of Samples:
+569
+
+Number of Features:
+30 numerical features
+
+Missing Values:
+No missing values present.
+
+Description:
+The Breast Cancer Wisconsin dataset contains diagnostic measurements computed from digitized images of breast masses. It is commonly used for binary classification tasks in machine learning.
